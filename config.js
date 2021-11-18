@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cạuu..... <3",
-    introTitle: 'Hà Xuân Hà ( HX )',
+    introTitle: 'Hà Xuân Hoà ( HX )',
     introDesc: 'Chúc cạu, người tớ yêu sẽ luôn vui vẻ, mạnh khỏe, hạnh phúc
     Luôn tự tin vững bước trên con đường đã chọn
     Nếu mệt mỏi, hãy ngoảnh lại phía sau, sẽ có tớ, luôn bên cạu, cùng cậu vượt qua mỏi thử thách, cùng cạu sẻ chia những buồn vui hay đau khổ. Dù có chuyện gì xảy ra, tớ mong mình sẽ là người được biết chuyện để được giúp đỡ cạu, có chuyện gì hãy nói với tớ nhé <3
